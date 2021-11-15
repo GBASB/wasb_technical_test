@@ -1,7 +1,7 @@
 # We Are Silver Bullet - Technical Test
 
 A Technical Assessment for Software Technician Interviewees - TASTI.
-test changes
+
 ---
 
 Introduction
